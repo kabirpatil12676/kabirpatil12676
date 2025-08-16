@@ -108,7 +108,7 @@ I'm always excited to collaborate on interesting projects and connect with fello
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kabirpatil12676)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/kabir-patil](https://www.linkedin.com/in/kabir-patil-7a2a9b30b/)) <!-- Add your actual LinkedIn -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kabir-patil-7a2a9b30b/) <!-- Add your actual LinkedIn -->
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kabirpatil12676@gmail.com) <!-- Add your actual email -->
 
 </div>
