@@ -44,7 +44,9 @@ A full-stack **music streaming platform** with playlists, search, and a modern p
 - Authentication + Secure API
 - Smooth playback controls
 - Sleek responsive UI  
-🔗 Repo: *(Add link when ready)*
+🔗 Repo: https://github.com/kabirpatil12676/Aura-Music-App
+🔗 website: https://aura-music-player.netlify.app/
+
 
 ---
 
@@ -61,7 +63,7 @@ Real-time chat application with private & group messaging.
 ### 🔐 Python Mini Projects
 Small apps showcasing automation, GUI apps & API usage.
 - Pomodoro Timer • Weather App • Quiz App • Password Manager  
-🔗 *(Repo link coming soon)*
+🔗https://github.com/kabirpatil12676/Python-Projects
 
 ---
 
