@@ -1,122 +1,103 @@
-# Hi there, I'm Kabir Patil! 👋
+# 👋 Hi, I'm Kabir Patil!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Python+Enthusiast;Web+Development+Specialist;Always+Learning+New+Technologies&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.herokuapp.com?color=%23A020F0&size=24&center=true&vCenter=true&lines=Python+Developer;Web+Developer;AI+%26+Data+Enthusiast;Always+Learning+New+Skills">
 </div>
+
+---
 
 ## 🚀 About Me
 
-I'm a passionate developer who loves creating interactive applications and exploring new technologies. My journey in programming spans across web development, Python applications, and real-time communication systems. I enjoy turning ideas into functional, user-friendly applications that solve real-world problems.
+I’m a passionate developer who enjoys building engaging, user-focused applications using Python and Web technologies.  
+I love exploring how **data, automation, and smart systems** can make digital experiences smarter and more impactful.
 
-- 🔭 Currently working on: **Event Management Systems** and **Real-time Chat Applications**
-- 🌱 Learning: **Advanced JavaScript Frameworks** and **Full-Stack Development**
-- 💡 Interested in: **Web Development**, **Python Programming**, and **Interactive Game Development**
-- 🎯 Goal: Building scalable applications that make a difference
-- ⚡ Fun fact: I love creating games and interactive experiences!
+- 🔭 Currently working on: Portfolio improvements & Python Data Projects  
+- 🌱 Learning: **Data Analysis, Machine Learning, and Backend Logic**  
+- 💡 Interests: Web Development • Python • Data-Driven Solutions  
+- 🎯 Goal: Become a Python Developer transitioning into **AI/Data Science**  
+- ⚡ Fun fact: I build apps that **look good and think smart** 😄
+
+---
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+> Python • JavaScript • HTML • CSS
 
-### Frameworks & Libraries
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+### Web Development
+> React • Tailwind CSS • Material UI • Node.js • Express.js  
+> Socket.io • MongoDB • MySQL
+
+### Python & Data
+> Pandas • Requests • Tkinter • API Integration  
+(*Learning Scikit-Learn & Data Visualization*)
 
 ### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+> Git • GitHub • VS Code • Netlify • Render • MongoDB Atlas
 
-</div>
+---
 
 ## 🌟 Featured Projects
 
-### 🎪 Event Management System
-**Tech Stack:** JavaScript, HTML, CSS  
-A comprehensive web-based event management platform designed for WIT (possibly Walchand Institute of Technology).
-- Event planning and organization features
-- User-friendly interface for event coordination
-- Responsive design for multiple devices
+### 🎧 Aura Music App
+A full-stack **music streaming platform** with playlists, search, and a modern player UI.
+- Authentication + Secure API
+- Smooth playback controls
+- Sleek responsive UI  
+🔗 Repo: *(Add link when ready)*
 
-[🔗 View Project](https://github.com/kabirpatil12676/Event_Managment-Web.dev-)
+---
 
 ### 💬 Aura Chat App
-**Tech Stack:** JavaScript, Real-time Communication  
-A modern real-time chat application with intuitive user experience.
-- Real-time messaging capabilities
-- Clean and responsive UI
-- Scalable architecture
+Real-time chat application with private & group messaging.
+- Socket-based live communication
+- File & image sharing support
+- Profile customization  
+🔗 https://github.com/kabirpatil12676/Aura_Chat_App
 
-[🔗 View Project](https://github.com/kabirpatil12676/Aura_Chat_App)
+---
 
-### 🎮 Interactive Python Games
-A collection of engaging Python games showcasing programming fundamentals:
 
-**🪨📄✂️ Rock Paper Scissors Game**
-- Interactive gameplay with user input
-- Game logic implementation
-- Score tracking system
+### 🔐 Python Mini Projects
+Small apps showcasing automation, GUI apps & API usage.
+- Pomodoro Timer • Weather App • Quiz App • Password Manager  
+🔗 *(Repo link coming soon)*
 
-**🎯 HangMan Game**
-- Word guessing mechanics
-- ASCII art integration
-- Educational and entertaining
+---
 
-[🔗 Rock Paper Scissors](https://github.com/kabirpatil12676/Rock_Paper_Scissors-Game) | [🔗 HangMan](https://github.com/kabirpatil12676/HangMan)
-
-### 🔐 Python Password Generator
-**Tech Stack:** Python  
-A secure password generation tool with customizable parameters.
-- Cryptographically secure random generation
-- Multiple complexity options
-- User-friendly command-line interface
-
-[🔗 View Project](https://github.com/kabirpatil12676/Py_Password-Genrator)
-
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kabirpatil12676&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kabirpatil12676&show_icons=true&theme=tokyonight&hide_border=true" />
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kabirpatil12676&theme=tokyonight&hide_border=true" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabirpatil12676&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kabirpatil12676&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+---
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabirpatil12676&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
+## 🎯 What I'm improving next
+- Adding **AI-powered features** to my apps  
+- Starting **Machine Learning** mini-projects  
+- Deploying all major projects with live demos  
+- Writing clean documentation + testing
 
-## 🎯 What I'm Working On
+---
 
-- 🔧 **Improving existing projects** with better documentation and features
-- 🌐 **Expanding web development skills** with modern frameworks
-- 🤖 **Exploring new Python libraries** for enhanced functionality
-- 📱 **Learning mobile app development** to create cross-platform solutions
-
-## 🤝 Let's Connect!
-
-I'm always excited to collaborate on interesting projects and connect with fellow developers. Whether you want to discuss technology, collaborate on a project, or just say hello, feel free to reach out!
+## 🤝 Let’s Connect & Collaborate!
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kabirpatil12676)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kabir-patil-7a2a9b30b/) <!-- Add your actual LinkedIn -->
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](kabirpatil12676@gmail.com) <!-- Add your actual email -->
+[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kabirpatil12676)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kabir-patil-7a2a9b30b/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kabirpatil12676@gmail.com)
 
 </div>
 
 ---
 
 <div align="center">
-  <i>⭐️ From <a href="https://github.com/kabirpatil12676">kabirpatil12676</a></i>
-  <br>
-  <i>💡 "Code is like humor. When you have to explain it, it's bad." – Cory House</i>
+  <i>Thanks for visiting! Keep building. Keep growing. 🚀</i><br/>
+  <i>“Technology is best when it brings people together.”</i>
 </div>
