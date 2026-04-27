@@ -1,105 +1,116 @@
-# 👋 Hi, I'm Kabir Patil!
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=%23A020F0&size=24&center=true&vCenter=true&lines=Python+Developer;Web+Developer;AI+%26+Data+Enthusiast;Always+Learning+New+Skills">
+
+# Kabir Patil  
+### Data Science | Machine Learning | Analytics
+
+Building practical ML systems that solve real problems — prediction, segmentation, NLP, and computer vision.
+
+[LinkedIn](https://www.linkedin.com/in/kabir-patil-7a2a9b30b/) • [GitHub](https://github.com/kabirpatil12676)
+
 </div>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-I’m a passionate developer who enjoys building engaging, user-focused applications using Python and Web technologies.  
-I love exploring how **data, automation, and smart systems** can make digital experiences smarter and more impactful.
+I’m a 3rd year Engineering student focused on **Data Science, Machine Learning, and Analytics**.
 
-- 🔭 Currently working on: Portfolio improvements & Python Data Projects  
-- 🌱 Learning: **Data Analysis, Machine Learning, and Backend Logic**  
-- 💡 Interests: Web Development • Python • Data-Driven Solutions  
-- 🎯 Goal: Become a Python Developer transitioning into **AI/Data Science**  
-- ⚡ Fun fact: I build apps that **look good and think smart** 😄
+My goal is simple: become industry-ready through real projects, strong fundamentals, and consistent execution.
+
+Currently working on:
+
+- Machine Learning projects with deployment  
+- Deep Learning using PyTorch  
+- Data Analytics using SQL, Python, Power BI/Tableau  
+- Improving DSA for placements  
 
 ---
 
-## 🛠️ Tech Stack
+## Core Skills
 
 ### Languages
-> Python • JavaScript • HTML • CSS
+- Python  
+- SQL  
+- Java  
 
-### Web Development
-> React • Tailwind CSS • Material UI • Node.js • Express.js  
-> Socket.io • MongoDB • MySQL
+### Data Science / ML
+- Pandas  
+- NumPy  
+- Scikit-learn  
+- PyTorch  
+- Matplotlib  
+- Seaborn  
 
-### Python & Data
-> Pandas • Requests • Tkinter • API Integration  
-(*Learning Scikit-Learn & Data Visualization*)
+### Analytics
+- Power BI  
+- Tableau  
+- Excel  
 
-### Tools & Platforms
-> Git • GitHub • VS Code • Netlify • Render • MongoDB Atlas
-
----
-
-## 🌟 Featured Projects
-
-### 🎧 Aura Music App
-A full-stack **music streaming platform** with playlists, search, and a modern player UI.
-- Authentication + Secure API
-- Smooth playback controls
-- Sleek responsive UI  
-🔗 Repo: https://github.com/kabirpatil12676/Aura-Music-App
-🔗 website: https://aura-music-player.netlify.app/
-
+### Tools
+- Git  
+- GitHub  
+- VS Code  
+- Jupyter Notebook  
 
 ---
 
-### 💬 Aura Chat App
-Real-time chat application with private & group messaging.
-- Socket-based live communication
-- File & image sharing support
-- Profile customization  
-🔗 https://github.com/kabirpatil12676/Aura_Chat_App
+## Featured Projects
+
+### CIFAR-10 Image Classifier
+CNN-based image classification system trained on 10 classes using PyTorch.
+
+**Tech:** Python, PyTorch, CNN, Streamlit
+
+### Customer Segmentation E-Commerce
+Used clustering algorithms to segment customers based on spending behavior.
+
+**Tech:** Python, Pandas, Scikit-learn, KMeans
+
+### Loan Approval Prediction
+ML model to predict loan approval using applicant data.
+
+**Tech:** Python, Logistic Regression, Random Forest
+
+### Text Summarization NLP
+Automatic text summarization using NLP techniques.
+
+**Tech:** Python, NLP, NLTK
+
+### Power Plant Energy Prediction
+Regression model to predict energy output.
+
+**Tech:** Python, XGBoost, Regression
 
 ---
 
+## What I’m Learning Now
 
-### 🔐 Python Mini Projects
-Small apps showcasing automation, GUI apps & API usage.
-- Pomodoro Timer • Weather App • Quiz App • Password Manager  
-🔗https://github.com/kabirpatil12676/Python-Projects
+- Advanced Machine Learning  
+- Deep Learning Architectures  
+- SQL for Analytics  
+- DSA for placements  
+- Model Deployment  
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Goals 2026
+
+- Strong internship in Data Science / Analyst / ML role  
+- 10 production-quality projects  
+- Clean portfolio + strong LinkedIn presence  
+- Consistent coding and learning system  
+
+---
+
+## Contact
+
+📧 kabirpatil12676@gmail.com  
+💼 LinkedIn: https://www.linkedin.com/in/kabir-patil-7a2a9b30b/
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kabirpatil12676&show_icons=true&theme=tokyonight&hide_border=true" />
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kabirpatil12676&theme=tokyonight&hide_border=true" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabirpatil12676&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
 
----
+### Open to Internships | Data Science | Analytics | ML Roles
 
-## 🎯 What I'm improving next
-- Adding **AI-powered features** to my apps  
-- Starting **Machine Learning** mini-projects  
-- Deploying all major projects with live demos  
-- Writing clean documentation + testing
-
----
-
-## 🤝 Let’s Connect & Collaborate!
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kabirpatil12676)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kabir-patil-7a2a9b30b/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kabirpatil12676@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-  <i>Thanks for visiting! Keep building. Keep growing. 🚀</i><br/>
-  <i>“Technology is best when it brings people together.”</i>
 </div>
