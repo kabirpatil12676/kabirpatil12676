@@ -3,7 +3,7 @@
 # Kabir Patil  
 ### Data Science | Machine Learning | Analytics
 
-Building practical ML systems that solve real problems — prediction, segmentation, NLP, and computer vision.
+Building practical ML systems that solve real problems - prediction, segmentation, NLP, and computer vision.
 
 [LinkedIn](https://www.linkedin.com/in/kabir-patil-7a2a9b30b/) • [GitHub](https://github.com/kabirpatil12676)
 
@@ -30,8 +30,7 @@ Currently working on:
 
 ### Languages
 - Python  
-- SQL  
-- Java  
+- SQL    
 
 ### Data Science / ML
 - Pandas  
